@@ -1,0 +1,7 @@
+C:\Users\José\Desktop\Dev\C#\Consola\Competencia\Competencia\bin\Debug\Competencia.exe.config
+C:\Users\José\Desktop\Dev\C#\Consola\Competencia\Competencia\bin\Debug\Competencia.exe
+C:\Users\José\Desktop\Dev\C#\Consola\Competencia\Competencia\bin\Debug\Competencia.pdb
+C:\Users\José\Desktop\Dev\C#\Consola\Competencia\Competencia\obj\Debug\Competencia.csprojAssemblyReference.cache
+C:\Users\José\Desktop\Dev\C#\Consola\Competencia\Competencia\obj\Debug\Competencia.csproj.CoreCompileInputs.cache
+C:\Users\José\Desktop\Dev\C#\Consola\Competencia\Competencia\obj\Debug\Competencia.exe
+C:\Users\José\Desktop\Dev\C#\Consola\Competencia\Competencia\obj\Debug\Competencia.pdb
